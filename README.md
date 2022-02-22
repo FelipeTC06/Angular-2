@@ -1,2 +1,2 @@
 # Angular-2
- Studing Angular1
+ Studing Angular2
